@@ -146,7 +146,12 @@
     <ClCompile Include="Q13.cpp" />
     <ClCompile Include="Q14.cpp" />
     <ClCompile Include="Q15.cpp" />
+    <ClCompile Include="Q16.cpp" />
+    <ClCompile Include="Q17.cpp" />
+    <ClCompile Include="Q18.cpp" />
+    <ClCompile Include="Q19.cpp" />
     <ClCompile Include="Q2.cpp" />
+    <ClCompile Include="Q20.cpp" />
     <ClCompile Include="Q3.cpp" />
     <ClCompile Include="Q4.cpp" />
     <ClCompile Include="Q5.cpp" />
